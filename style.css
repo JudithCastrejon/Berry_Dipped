@@ -18,7 +18,7 @@ body{
 }
 
 /*style for navigation bar*/
-.navigation{
+.menu{
     background-color:#D69A9A;
     overflow: hidden;
     text-align: center;
@@ -26,7 +26,7 @@ body{
 
 }
 /*style the links inside the navigation bar*/
-.navigation a{
+.menu a{
     float:left;
     display:block;
     color: black;
@@ -36,7 +36,7 @@ body{
     font-size: 18px;
 }
 /*Changing the color when mouse hovers*/
-.navigation a:hover{
+.menu a:hover{
     background-color: #B7707C;
     color:black;
 }
